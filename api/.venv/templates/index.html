@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tenet fan page</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+    <link rel="stylesheet" type="text/javascript" href="{{ url_for('static', filename='main.js') }}">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Arya&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap" rel="stylesheet">
+</head>
+<body>
+    
+<!-- Introduction section -->
+<section id="introduction">
+    <h3 class="director"> From the mind of {{director}}</h3>
+    <h2 class="tenet_title">{{title}}</h2>
+    <h2 class="tagline">{{tagline}}</h2>
+</section>
+
+<!-- Plot information section -->
+<section id="plot_information">
+    <div class="container">
+        <h2 class="plot">Plot</h2>
+            <p class="tenet_info">{{plot}}</p>
+    </div>
+</section>
+
+<!-- Movie trivia section -->
+<section id="info">
+    <div class="container">
+        <h2 class="nice-to-know">Nice to know</h2>
+            <p class="genre">Genre: {{genre}}</p>
+            <p class="tenet-rating" >IMDB score: {{rating}}</p>
+            <p class="runtime">Runtime: {{runtime}}</p>
+        </div>
+</section>
+
+<section id="trailer">
+    <h2 class="trailer-title">Trailer</h2>
+        <iframe class="video" width="1900" height="700" src="https://www.youtube.com/embed/GZI5607Z7jU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </iframe>
+</section>
+
+
+</body>
+</html>
