@@ -15,6 +15,8 @@ Windows: I terminal <br>
 `set FLASK_APP=app.py`<br>
 `set FLASK_ENV=development`<br>
 `flask run`<br>
+I din nettleser legg til /tenet i URL feltet
+
 
 ## Kilde
 REST API Crash Course - Introduction + Full Python API Tutorial <br>
