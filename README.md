@@ -14,7 +14,12 @@ Windows: I terminal <br>
 `cd..`<br>
 `set FLASK_APP=app.py`<br>
 `set FLASK_ENV=development`<br>
-`flask run`<br>
+`flask run`
+<br>
+<br>
+
+I din nettleser legg til /tenet i URL feltet<br>
+<img src="https://github.com/AndersKoo/tenet_api/blob/main/tenet_url.jpg" alt="alternatetext" width="170" height="29"><br>
 
 ## Kilde
 REST API Crash Course - Introduction + Full Python API Tutorial <br>
