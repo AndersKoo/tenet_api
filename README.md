@@ -20,7 +20,8 @@ Windows: I terminal <br>
 I din nettleser legg til /tenet i URL feltet<br>
 <img src="https://github.com/AndersKoo/tenet_api/blob/main/tenet_url.jpg" alt="alternatetext" width="170" height="29"><br>
 
-## Kilde
+## Kilder
 REST API Crash Course - Introduction + Full Python API Tutorial <br>
 https://www.youtube.com/watch?v=qbLc5a9jdXo <br>
+https://www.youtube.com/embed/GZI5607Z7jU <br>
 
