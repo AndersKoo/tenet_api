@@ -16,8 +16,6 @@ Windows: I terminal <br>
 `set FLASK_ENV=development`<br>
 `flask run`<br>
 
-## API setup
-
 ## Kilde
 REST API Crash Course - Introduction + Full Python API Tutorial <br>
 https://www.youtube.com/watch?v=qbLc5a9jdXo <br>
