@@ -17,6 +17,7 @@ Windows: I terminal <br>
 `flask run`
 <br>
 <br>
+
 I din nettleser legg til /tenet i URL feltet<br>
 <img src="https://github.com/AndersKoo/tenet_api/blob/main/tenet_url.jpg" alt="alternatetext" width="170" height="29"><br>
 
