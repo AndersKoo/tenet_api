@@ -1,8 +1,10 @@
-## tenet_api
-Dette er et python basert prosjekt med et egenutviklet API.
+
 
 ## Demonstrasjon
  ![Tenet](demo.gif)
+
+## tenet_api
+Dette er et python basert prosjekt med et egenutviklet API.
 
 ## Instrukser
 Windows: I terminal <br> 
