@@ -1,6 +1,6 @@
 
 
-## Demonstrasjon
+## Demo
  ![Tenet](demo.gif)
 
 ## tenet_api
