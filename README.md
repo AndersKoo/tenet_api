@@ -4,7 +4,12 @@
  ![Tenet](demo.gif)
 
 ## Beskrivelse:<br>
-Teknologier: Python, Flask, Flask-sqlalchemy<br>
+
+Teknologier: <br>
+
+• HTML, CSS
+• Python (Flask)<br> 
+• Flask-sqlalchemy<br>
 
 Som filmentusiast og nerd ønsket jeg å lage et eget film API med python. Valget falt på Tenet (2020). <br>
 Får å matche filmens stil ønsket, jeg en ren og minimalistisk font med Yin yang fargetema.<br>
@@ -15,7 +20,6 @@ I denne prosessen lærte jeg:<br>
 •	Flask<br>
 • Flask-sqlalchemy<br>
 •	Python oppsett m/Powershell <br>
-
 
 ## Instrukser
 Windows: I terminal <br> 
