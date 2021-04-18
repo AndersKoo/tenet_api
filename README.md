@@ -7,8 +7,7 @@
 Teknologier: Python, Flask, Flask-sqlalchemy<br>
 
 Som filmentusiast og nerd ønsket jeg å lage et eget film API med python. Valget falt på Tenet (2020). <br>
-Som utgangspunkt så jeg et REST API Crash Course fra Caleb Curry. Dette ga meg nok til å utvikle et enkelt API med informasjon om filmen.
-Får å matche filmens stil ønsket, jeg en ren og minimalistisk font med Yin yang stil.<br>
+Får å matche filmens stil ønsket, jeg en ren og minimalistisk font med Yin yang fargetema.<br>
 
 I denne prosessen lærte jeg:<br>
 
