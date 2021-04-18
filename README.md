@@ -7,7 +7,7 @@
 
 Teknologier: <br>
 
-• HTML, CSS
+• HTML, CSS <br>
 • Python (Flask)<br> 
 • Flask-sqlalchemy<br>
 
